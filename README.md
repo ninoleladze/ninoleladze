@@ -8,7 +8,7 @@ Passionate about building web applications, learning new technologies, and contr
 
 ## 📄 Resume
 
-[Download my resume (PDF)](https://github.com/ninoleladze/portfolio/blob/main/Nino_L_Resume__.pdf)
+[Download my resume (PDF)](https://github.com/ninoleladze/portfolio/blob/main/Nino_L_Resume_.pdf)
 
 
 ## 📫 Contact
