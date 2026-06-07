@@ -1,10 +1,8 @@
 # Hi there 👋 I’m Nino Leladze
 
 
-Aspiring Full-Stack Developer and .NET enthusiast.  
-Currently completing **Front-End & .NET Web Development** program at **IT Academy STEP**.  
-Passionate about building web applications, learning new technologies, and contributing to meaningful projects.
-
+Aspiring Full-Stack Developer and .NET Developer
+Currently studying .NET Development at EPAM Campus and IT Academy STEP Georgia. Skilled in C#, ASP.NET Core, SQL, JavaScript, Angular, HTML, and CSS. Passionate about building web applications, learning new technologies, and contributing to meaningful projects.
 
 ## 📄 Resume
 
