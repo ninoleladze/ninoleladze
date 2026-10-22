@@ -1,16 +1,19 @@
-# Hi there 👋 I’m Nino Leladze
+# Hi, I'm Nino Leladze 👋
 
+Computer Science student at **Caucasus University** focused on **.NET backend development**.
+Completed the **EPAM Campus .NET Development Program** and **IT Academy STEP** Back-End and Web Development programs.
 
-Aspiring Full-Stack Developer and .NET Developer
-Currently studying .NET Development at EPAM Campus and IT Academy STEP Georgia. Skilled in C#, ASP.NET Core, SQL, JavaScript, Angular, HTML, and CSS. Passionate about building web applications, learning new technologies, and contributing to meaningful projects.
+🔧 **Stack:** C#, ASP.NET Core, Entity Framework Core, SQL Server, PostgreSQL, REST APIs, SignalR, Redis, Angular, TypeScript
+🧪 **Practices:** Clean Architecture, CQRS, JWT auth, unit & API testing, debugging, Git
 
-## 📄 Resume
-
-[Download my resume (PDF)](https://github.com/ninoleladze/portfolio/blob/main/Nino_L_Resume_.pdf)
-
+## ⭐ Featured projects
+| Project | What it is | Tech |
+|---|---|---|
+| [AuctionPlatformGe](https://github.com/ninoleladze/AuctionPlatformGe) | Real-time auction platform with live bidding and payments | .NET 10, CQRS, SignalR, Angular + NgRx, Docker |
+| [MarketCore](https://github.com/ninoleladze/MarketCore) | Full-stack e-commerce with real-time order tracking | .NET 8, Clean Architecture, SignalR, Redis, Angular |
+| [LinearFactory](https://github.com/ninoleladze/LinearFactory) | Manufacturing Execution System with live dashboards | ASP.NET Core 8, CQRS, SignalR, Angular |
+| [NeuroPath](https://github.com/ninoleladze/NeuroPath) | Learning platform backend with gamification | .NET 10, Identity + JWT, EF Core, Serilog |
+| [DigitalBank](https://github.com/ninoleladze/DigitalBank) | Backend banking system | ASP.NET Core, Clean Architecture, SQL Server |
 
 ## 📫 Contact
-
-- Email: ninoleladze447@gmail.com  
-- LinkedIn: [in/nino-leladze-447903325](https://www.linkedin.com/in/nino-leladze-447903325/)  
-- GitHub: [ninoleladze](https://github.com/ninoleladze)
+[Email](mailto:ninoleladze447@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nino-leladze-447903325/)
